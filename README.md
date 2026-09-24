@@ -19,11 +19,11 @@ Client project built end-to-end as a solo developer, from the initial design to 
 
 ## Stack
 
-- **[Tailwind CSS v4](https://tailwindcss.com/)** — utility-first styling
-- **[Vite](https://vitejs.dev/)** — dev server and build tooling
-- **Vanilla JavaScript** — nav toggling, gallery/lightbox behavior
-- **jQuery + [Slick Carousel](https://kenwheeler.github.io/slick/)** — homepage slideshow
-- **[Web3Forms](https://web3forms.com/)** — contact form submission handling (no custom backend)
+- **[Tailwind CSS v4](https://tailwindcss.com/)** -> utility-first styling
+- **[Vite](https://vitejs.dev/)** -> dev server and build tooling
+- **Vanilla JavaScript** -> nav toggling, gallery/lightbox behavior
+- **jQuery + [Slick Carousel](https://kenwheeler.github.io/slick/)** -> homepage slideshow
+- **[Web3Forms](https://web3forms.com/)** -> contact form submission handling (no custom backend)
 
 ## Project Structure
 
